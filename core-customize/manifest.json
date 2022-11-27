@@ -57,6 +57,31 @@
             "template": "yacceleratorstorefront"
         },
         {
+            "addon": "textfieldconfiguratortemplateaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "assistedservicestorefront",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "assistedservicepromotionaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "customerticketingaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "orderselfserviceaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
             "addon": "adaptivesearchsamplesaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
@@ -73,6 +98,11 @@
         },
         {
             "addon": "personalizationaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+		{
+            "addon": "eventtrackingwsaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         }
