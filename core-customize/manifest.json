@@ -115,14 +115,8 @@
             "addon": "profiletagaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
-		},
-		{
-            "addon": "promotionenginesamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
 		}
-		
-        
+	
     ],
     "aspects": [
         {
